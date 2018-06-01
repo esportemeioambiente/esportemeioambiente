@@ -175,6 +175,14 @@
 .fa-stack-2x {
   font-size: 2em;
 }
+.fa-stack-1xx{
+  position: absolute;
+  left: 0;
+  text-align: center;
+}
+.fa-stack-1xx {
+  line-height: inherit;
+}
 .fa-inverse {
   color: #ffffff;
 }
